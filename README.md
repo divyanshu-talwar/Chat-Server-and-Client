@@ -1,6 +1,8 @@
 # Multi-threaded Chat Server & Client
 ## About
-* The server responds to a client's request by sending it the words recieved in the reversed order. 
+* Clients can :
+	* send messages to all clients, a list of clients or a specific client.
+	* ask the server for a list of connected clients.
 
 ## Installation and Execution
 * Compile the java programs using : 
